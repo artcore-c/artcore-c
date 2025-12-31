@@ -83,4 +83,4 @@ Debugged and resolved build errors across 369 C++ modules/submodules, including 
 
 🎬 [YouTube](https://www.youtube.com/@3DCharacterArt) · 💼 [LinkedIn](https://www.linkedin.com/in/roberthall-3dcharacterartist/) · 🎨 [ArtStation](https://www.artstation.com/unicorn-1)
 
-Open to remote roles in iOS development, Python backend systems, or edge computing.
+Open to remote roles in iOS development, Python backend systems, and edge computing.
