@@ -1,16 +1,79 @@
-## Hi there 👋
 
-<!--
-**artcore-c/artcore-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Robert Hall
 
-Here are some ideas to get you started:
+**iOS Developer · Systems & Infrastructure Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build production-oriented software spanning iOS applications, edge devices, and cloud backends. My work focuses on distributed architecture, performance-aware design, and systems that run reliably on constrained hardware.
+
+Previously: 3D character artist and hardware PCB designer. Now: Developer focused on Swift, Python, and edge computing with hardware design capabilities (Blender, Fusion, KiCad).
+
+---
+
+## Selected Work
+
+### [Cerebrum](https://github.com/artcore-c/Cerebrum)
+**Distributed AI orchestration for edge + cloud systems**
+
+Production-grade system running on Raspberry Pi CM4 as edge orchestrator with VPS inference backend. Features instruction-aware prompt chunking, token streaming via Server-Sent Events, circuit breakers, and load shedding. Designed to coexist with VPN routing on the same device without performance degradation.
+
+*Python · FastAPI · SSE · systemd · Debian · Raspberry Pi*
+
+---
+
+### [uConsole Cyberdeck Router](https://github.com/artcore-c/uConsole-cyberdeck-router) ⭐ 8
+**WireGuard-based VPN router for embedded systems**
+
+Complete router configuration for Raspberry Pi CM4 inside ClockworkPi uConsole. Includes WireGuard VPN routing with firewall isolation, QoS tuning, BBR TCP congestion control, and design for long-running unattended operation.
+
+*WireGuard · iptables · firewalld · Debian · systemd*
+
+---
+
+### [AI Voice Cloning with Coqui XTTS](https://github.com/artcore-c/AI-Voice-Clone-with-Coqui-XTTS-v2) ⭐ 28
+**Practical tutorial and troubleshooting guide**
+
+Hands-on guide for running open-source voice cloning using Coqui XTTS on Google Colab. Written for developers and creators with focus on reproducible setup, real-world error handling, and clear explanations.
+
+*Python · AI/ML · Google Colab*
+
+---
+
+### iOS Applications (Private Repositories)
+
+**[Perspicacity](https://medium.com/@gingerbreadcocoa/from-traditional-art-to-ios-building-an-app-that-connects-people-through-actions-not-profiles-f4237789bc83)** — Privacy-focused social application  
+iOS app exploring encrypted user data, biometric authentication, and content moderation pipelines. Backed by FastAPI service, designed for App Store deployment.
+
+*Swift · SwiftUI · CryptoKit · CloudKit · FastAPI*
+
+---
+
+## Open Source Contributions
+
+**ROS2 Rolling** - macOS x86_64 build fixes  
+Debugged and resolved build errors across 369 C++ modules/submodules, including dependency resolution and macOS-specific toolchain issues…
+
+*C++ · CMake · macOS · Build Systems*
+
+## Technical Skills
+
+**Languages:** Swift · Python · Shell · C/C++ · JavaScript
+
+**iOS:** SwiftUI · UIKit · Core Data · CloudKit · CryptoKit · Biometric Auth
+
+**Backend:** FastAPI · REST APIs · Server-Sent Events
+
+**Systems:** Debian · macOS · Raspberry Pi · VPS · systemd
+
+**Networking:** WireGuard · iptables · firewalld · Routing · QoS
+
+**Tools:** Git · Xcode · VS Code · Blender · Fusion · PCB Design & Layout
+
+**Design Background:** 3D character art, CAD modeling, PCB layout - 📒 [Portfolio](https://www.artstation.com/unicorn-1)
+
+---
+
+## Links
+
+🎬 [YouTube](https://www.youtube.com/@3DCharacterArt) · 💼 [LinkedIn](https://www.linkedin.com/in/roberthall-3dcharacterartist/) · 🎨 [ArtStation](https://www.artstation.com/unicorn-1)
+
+Open to remote roles in iOS development, Python backend systems, or edge computing.
