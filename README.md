@@ -14,9 +14,9 @@ Previously: 3D character artist and hardware PCB designer. Now: Developer focuse
 ### [Cerebrum](https://github.com/artcore-c/Cerebrum)
 **Distributed AI orchestration for edge + cloud systems**
 
-Production-grade system running on Raspberry Pi CM4 as edge orchestrator with VPS inference backend. Features instruction-aware prompt chunking, token streaming via Server-Sent Events, circuit breakers, and load shedding. Designed to coexist with VPN routing on the same device without performance degradation.
+Production-grade system running on Raspberry Pi CM4 as edge orchestrator with VPS inference backend. Features instruction-aware prompt chunking, token streaming via Server-Sent Events, circuit breakers, and load shedding. Custom Qt/QML GUI with real-time metrics visualization, CPU graphing, and streaming chat interface. Designed to coexist with VPN routing on the same device without performance degradation.
 
-*Python · FastAPI · SSE · systemd · Debian · Raspberry Pi*
+*Python · FastAPI · SSE · Qt/QML · C++ · systemd · Debian · Raspberry Pi*
 
 ---
 
@@ -63,19 +63,21 @@ Debugged and resolved build errors across 369 C++ modules/submodules, including 
 
 ## Technical Skills
 
-**Languages:** Swift · Python · Shell · C/C++ · JavaScript
+**Languages:** Swift · Python · C/C++ · QML · Shell · JavaScript
 
 **iOS:** SwiftUI · UIKit · Core Data · CloudKit · CryptoKit · Biometric Auth
 
 **Backend:** FastAPI · REST APIs · Server-Sent Events
 
+**GUI/Desktop:** Qt · QML · Qt Design Studio · Native ARM64/x86_64 compilation
+
 **Systems:** Debian · macOS · Raspberry Pi · VPS · systemd
 
 **Networking:** WireGuard · iptables · firewalld · Routing · QoS
 
-**Tools:** Git · Xcode · VS Code · Blender · Fusion · PCB Design & Layout
+**Tools:** Git · Xcode · Qt Design Studio · CMake · Ninja · VS Code · Blender · Fusion
 
-**Design Background:** 3D character art, CAD modeling, PCB layout - 📒 [Portfolio](https://www.artstation.com/unicorn-1)
+**Design Background:** 3D character art, CAD modeling, PCB Design & Layout - 📒 [Portfolio](https://www.artstation.com/unicorn-1)
 
 ---
 
