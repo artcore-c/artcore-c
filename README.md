@@ -3,7 +3,7 @@
 
 **iOS Developer · Systems & Infrastructure Engineer**
 
-I build production-oriented software spanning iOS applications, edge devices, and cloud backends. My work focuses on distributed architecture, performance-aware design, and systems that run reliably on constrained hardware.
+I build production-oriented software across iOS, edge devices, and cloud backends, with a focus on distributed architecture, performance-aware design, and reliability on constrained hardware.
 
 Previously: 3D character artist and hardware PCB designer. Now: Developer focused on Swift, Python, and edge computing with hardware design capabilities (Blender, Fusion, KiCad).
 
@@ -85,4 +85,4 @@ Debugged and resolved build errors across 369 C++ modules/submodules, including 
 
 🎬 [YouTube](https://www.youtube.com/@3DCharacterArt) · 💼 [LinkedIn](https://www.linkedin.com/in/roberthall-3dcharacterartist/) · 🎨 [ArtStation](https://www.artstation.com/unicorn-1)
 
-Open to remote roles in iOS development, Python backend systems, and edge computing.
+Open to remote roles involving iOS development, Python backend systems, distributed infrastructure, and edge computing.
