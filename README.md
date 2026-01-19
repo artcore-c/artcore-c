@@ -11,7 +11,7 @@ Previously: 3D character artist and hardware PCB designer. Now: Developer focuse
 
 ## Selected Work
 
-### [Cerebrum](https://github.com/artcore-c/Cerebrum) ⭐ 2
+### [Cerebrum](https://github.com/artcore-c/Cerebrum) ⭐ 3
 **Distributed AI orchestration for edge + cloud systems**
 
 Production-grade system running on Raspberry Pi CM4 as edge orchestrator with VPS inference backend. Features instruction-aware prompt chunking, token streaming via Server-Sent Events, circuit breakers, and load shedding. Custom Qt/QML GUI with real-time metrics visualization, CPU graphing, and streaming chat interface. Designed to coexist with VPN routing on the same device without performance degradation.
