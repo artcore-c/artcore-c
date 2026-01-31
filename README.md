@@ -20,7 +20,7 @@ Production-grade system running on Raspberry Pi CM4 as edge orchestrator with VP
 
 ---
 
-### [uConsole Cyberdeck Router](https://github.com/artcore-c/uConsole-cyberdeck-router) ⭐ 9
+### [uConsole Cyberdeck Router](https://github.com/artcore-c/uConsole-cyberdeck-router) ⭐ 10
 **WireGuard-based VPN router for embedded systems**
 
 Complete router configuration for Raspberry Pi CM4 inside ClockworkPi uConsole. Includes WireGuard VPN routing with firewall isolation, QoS tuning, BBR TCP congestion control, and design for long-running unattended operation.
