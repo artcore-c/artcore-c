@@ -29,7 +29,7 @@ Complete router configuration for Raspberry Pi CM4 inside ClockworkPi uConsole. 
 
 ---
 
-### [AI Voice Cloning with Coqui XTTS](https://github.com/artcore-c/AI-Voice-Clone-with-Coqui-XTTS-v2) ⭐ 33
+### [AI Voice Cloning with Coqui XTTS](https://github.com/artcore-c/AI-Voice-Clone-with-Coqui-XTTS-v2) ⭐ 34
 **Practical tutorial and troubleshooting guide**
 
 Hands-on guide for running open-source voice cloning using Coqui XTTS on Google Colab. Written for developers and creators with focus on reproducible setup, real-world error handling, and clear explanations.
