@@ -1,9 +1,9 @@
 
 # Robert Hall
 
-**iOS Developer · Systems & Infrastructure Engineer**
+**macOS/iOS Developer · Systems & Infrastructure Engineer**
 
-I build production-oriented software across iOS, edge devices, and cloud backends, with a focus on distributed architecture, performance-aware design, and reliability on constrained hardware.
+I build production-oriented software across macOS, iOS, edge devices, and cloud backends, with a focus on distributed architecture, performance-aware design, and reliability on constrained hardware.
 
 Previously: 3D character artist and hardware PCB designer. Now: Developer focused on Swift, Python, and edge computing with hardware design capabilities (Blender, Fusion, KiCad).
 
