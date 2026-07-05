@@ -47,8 +47,8 @@ iOS app exploring encrypted user data, biometric authentication, and content mod
 
 ---
 
-**ApplePi METARmap** — Aviation weather visualization  
-Real-time METAR data displayed as LED-style color indicators on Apple Maps with OpenAIP overlays. Swift adaptation of Python METARmap for in-cabin use in private aviation.
+**[METARmotion](https://metarmotion.com)** — Live aviation weather visualization for iPadOS
+Real-time METAR data displayed as simulated RGB-LED color indicators on Apple Maps with OpenAIP overlays. Swift adaptation of Python METARmap for in-cabin use in private aviation.
 
 *Swift · SwiftUI · MapKit · Core Location · OpenAIP*
 
