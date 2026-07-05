@@ -48,9 +48,9 @@ iOS app exploring encrypted user data, biometric authentication, and content mod
 
 ---
 
-**[METARmotion](https://metarmotion.com)** — Live aviation weather visualization for iPadOS
+**[METARmotion](https://metarmotion.com)** — Aviation weather visualization for iPadOS
 
-Real-time METAR data displayed as simulated RGB-LED color indicators on Apple Maps with OpenAIP overlays. Swift adaptation of Python METARmap for in-cabin use in private aviation.
+Interactive aviation weather display inspired by classic RGB-LED METAR maps, presenting METAR observations as simulated RGB-LED indicators on Apple Maps with optional OpenAIP aeronautical overlays.
 
 *Swift · SwiftUI · MapKit · Core Location · OpenAIP*
 
@@ -87,4 +87,4 @@ Debugged and resolved build errors across 369 C++ modules/submodules, including 
 
 🎬 [YouTube](https://www.youtube.com/@3DCharacterArt) · 💼 [LinkedIn](https://www.linkedin.com/in/roberthall-3dcharacterartist/) · 🎨 [ArtStation](https://www.artstation.com/unicorn-1)
 
-Open to remote roles involving iOS development, Python backend systems, distributed infrastructure, and edge computing.
+Open to remote roles involving iOS, iPadOS, and macOS development, Python backend systems, distributed infrastructure, and edge computing.
