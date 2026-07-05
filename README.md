@@ -40,7 +40,8 @@ Hands-on guide for running open-source voice cloning using Coqui XTTS on Google 
 
 ### iOS Applications (Private Repositories)
 
-**[Perspicacity](https://medium.com/@gingerbreadcocoa/from-traditional-art-to-ios-building-an-app-that-connects-people-through-actions-not-profiles-f4237789bc83)** — Privacy-focused social application  
+**[Perspicacity](https://medium.com/@gingerbreadcocoa/from-traditional-art-to-ios-building-an-app-that-connects-people-through-actions-not-profiles-f4237789bc83)** — Privacy-focused social application 
+ 
 iOS app exploring encrypted user data, biometric authentication, and content moderation pipelines. Backed by FastAPI service, designed for App Store deployment.
 
 *Swift · SwiftUI · CryptoKit · CloudKit · FastAPI*
