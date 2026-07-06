@@ -50,7 +50,7 @@ iOS app exploring encrypted user data, biometric authentication, and content mod
 
 **[METARmotion](https://metarmotion.com)** — Aviation weather visualization for iPadOS
 
-Interactive aviation weather display inspired by classic RGB-LED METAR maps, presenting METAR observations as simulated RGB-LED indicators on Apple Maps with optional OpenAIP aeronautical overlays.
+Interactive aviation weather display inspired by classic RGB-LED METAR maps, presenting METAR observations as carefully rendered simulated RGB-LED indicators on Apple Maps with optional OpenAIP aeronautical overlays. Follow Location keeps the display centered on your position with adjustable zoom for both stationary and moving use.
 
 *Swift · SwiftUI · MapKit · Core Location · OpenAIP*
 
